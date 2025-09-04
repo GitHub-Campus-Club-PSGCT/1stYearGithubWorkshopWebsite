@@ -1,0 +1,3 @@
+hi i am:print(adhithya)
+location:print(unknown)
+status//:pnt(cse g1)

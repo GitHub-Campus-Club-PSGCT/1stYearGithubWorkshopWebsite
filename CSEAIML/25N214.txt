@@ -1,3 +1,1 @@
 Hi, myself Kali Charan Balusu
-git add .
-git commit -m "Add [Kali Charan Balusu] - [25N214]"
